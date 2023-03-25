@@ -1,9 +1,9 @@
 #include "main.h"
 #include <stdio.h>
 /**
- *main - Entry Point
- *Description: 'Check for number if it is positive or negative'
- *Return: always 0
+ * positive_or_negative - Function that checks if number is positive/ negative
+ * @i: Parameter of number to be checked
+ * Return: i
  */
 void positive_or_negative(int i)
 {
