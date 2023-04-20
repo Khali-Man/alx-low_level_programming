@@ -3,7 +3,11 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
-
+/**
+ * _isupper - function for uppercase
+ * @c: parameter
+ * Return: (A to Z)
+ */
 int _isupper(int c)
 {
 return (c >= 'A' && c <= 'Z');
